@@ -6,7 +6,7 @@
   "tasks": {
     "run": {
       "name": "run",
-      "command": "whereis htop",
+      "command": "node index.js",
       "runAtStart": true
     }
   }
